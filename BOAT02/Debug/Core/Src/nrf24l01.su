@@ -1,0 +1,15 @@
+../Core/Src/nrf24l01.c:11:6:NRF24L01_CE_Low	8	static
+../Core/Src/nrf24l01.c:12:6:NRF24L01_CE_High	8	static
+../Core/Src/nrf24l01.c:13:6:NRF24L01_CSN_Low	8	static
+../Core/Src/nrf24l01.c:14:6:NRF24L01_CSN_High	8	static
+../Core/Src/nrf24l01.c:17:9:NRF24L01_SPI_SendByte	32	static
+../Core/Src/nrf24l01.c:24:6:NRF24L01_WriteReg	16	static
+../Core/Src/nrf24l01.c:32:9:NRF24L01_ReadReg	24	static
+../Core/Src/nrf24l01.c:42:6:NRF24L01_WriteBuf	24	static
+../Core/Src/nrf24l01.c:52:6:NRF24L01_ReadBuf	32	static
+../Core/Src/nrf24l01.c:62:9:NRF24L01_Check	16	static
+../Core/Src/nrf24l01.c:69:6:NRF24L01_Init	8	static
+../Core/Src/nrf24l01.c:109:6:NRF24L01_TXMode	8	static
+../Core/Src/nrf24l01.c:118:6:NRF24L01_RXMode	8	static
+../Core/Src/nrf24l01.c:127:9:NRF24L01_SendPacket	32	static
+../Core/Src/nrf24l01.c:170:9:NRF24L01_ReceivePacket	32	static
